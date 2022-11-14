@@ -27,7 +27,6 @@ body {
   background-size: cover;
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: auto 1fr;
   /* grid-gap: 10px; try later- grid-gap: 2em; */
 }
 
