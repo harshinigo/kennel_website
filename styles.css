@@ -231,6 +231,7 @@ nav .fa {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+  gap: 30px;
 }
 .dogsTypesContainer img {
   width: 250px;
