@@ -113,9 +113,10 @@ ul {
 nav .fa {
   display: none;
 }
+
 /* On smaller screens, decrease text size */
-@media (max-width: 700px) {
-  .text-box h1 {
+@media screen and (max-width: 736px) {
+  h1 .text-box h1 {
     font-size: 20px;
   }
   .text-box p {
@@ -148,7 +149,6 @@ nav .fa {
     font-size: 20px;
   }
 }
-
 /* Top article about dog */
 
 .topArticles h1 {
